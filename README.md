@@ -8,3 +8,14 @@ Two ready-to-use apps:
 * Real-time pose estimation displayed on the video (source code included)
 * Pose estimation using electronic files of videos or still images
 No usage restrictions, including commercial use
+
+# MediaPipe
+MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.Source for mediapipeline : https://google.github.io/mediapipe/#ml-solutions-in-mediapipe
+several models used via MidiaPipe
+* Face Detection
+* Multi-hand Tracking
+* Hair Segmentation
+* Object Detection and Tracking
+* Objectron: 3D Object Detection and Tracking
+* AutoFlip: Automatic video cropping pipeline
+* Pose Estimation
