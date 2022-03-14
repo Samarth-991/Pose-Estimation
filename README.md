@@ -19,5 +19,6 @@ MediaPipe offers cross-platform, customizable ML solutions for live and streamin
 * Objectron: 3D Object Detection and Tracking
 * AutoFlip: Automatic video cropping pipeline
 * Pose Estimation
+
 =======
 _Source for mediapipeline : https://google.github.io/mediapipe/#ml-solutions-in-mediapipe_
