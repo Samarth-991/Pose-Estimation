@@ -10,8 +10,7 @@ Two ready-to-use apps:
 No usage restrictions, including commercial use
 
 # MediaPipe
-MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.Source for mediapipeline : https://google.github.io/mediapipe/#ml-solutions-in-mediapipe
-several models used via MidiaPipe
+MediaPipe offers cross-platform, customizable ML solutions for live and streaming media. Several models that are created via MidiaPipe are 
 * Face Detection
 * Multi-hand Tracking
 * Hair Segmentation
@@ -19,3 +18,4 @@ several models used via MidiaPipe
 * Objectron: 3D Object Detection and Tracking
 * AutoFlip: Automatic video cropping pipeline
 * Pose Estimation
+_Source for mediapipeline : https://google.github.io/mediapipe/#ml-solutions-in-mediapipe_
